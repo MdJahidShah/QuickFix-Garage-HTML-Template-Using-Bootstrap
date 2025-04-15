@@ -1,0 +1,2 @@
+# QuickFix-Garage-HTML-Template-Using-Bootstrap
+ **350-character description for the QuickFix Auto Garage website template:**  QuickFix Auto Garage is a modern, responsive HTML template built with Bootstrap 5. It features sections for services, reviews, gallery, and contact. Perfect for auto repair shops, it offers a clean design, mobile-friendly layout, and a smooth user experience to help businesses attract more customers.
